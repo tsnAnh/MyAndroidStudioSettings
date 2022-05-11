@@ -39,4 +39,7 @@
   <component name="InlayHintsSettings">
     <option name="lastViewedProviderKeyId" value="KotlinLambdasHintsProvider" />
   </component>
+  <component name="JetEditorOptions">
+    <option name="donTShowConversionDialog" value="true" />
+  </component>
 </application>
