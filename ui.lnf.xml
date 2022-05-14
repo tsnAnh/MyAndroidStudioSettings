@@ -4,5 +4,6 @@
     <option name="DISABLE_MNEMONICS" value="false" />
     <option name="FULL_PATHS_IN_TITLE_BAR" value="true" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+    <option name="SHOW_TOOL_WINDOW_NUMBERS" value="true" />
   </component>
 </application>
