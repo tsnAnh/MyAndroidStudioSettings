@@ -1,6 +1,5 @@
 <application>
   <component name="PowerModeII">
-    <option name="enabled" value="false" />
     <option name="flamesEnabled" value="false" />
     <option name="hotkeyHeatup" value="false" />
     <option name="isBamEnabled" value="false" />
