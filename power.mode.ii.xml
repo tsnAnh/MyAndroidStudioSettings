@@ -1,0 +1,11 @@
+<application>
+  <component name="PowerModeII">
+    <option name="flamesEnabled" value="false" />
+    <option name="hotkeyHeatup" value="false" />
+    <option name="isBamEnabled" value="false" />
+    <option name="isPowerIndicatorEnabled" value="false" />
+    <option name="isSingleBamImagePerEvent" value="true" />
+    <option name="sparkCount" value="64" />
+    <option name="sparkSize" value="5" />
+  </component>
+</application>
