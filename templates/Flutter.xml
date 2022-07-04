@@ -7,4 +7,13 @@
       <option name="DART_STATEMENT" value="false" />
     </context>
   </template>
+  <template name="behavior" value="final _$name$ = BehaviorSubject&lt;$type$&gt;.seeded($initialValue$);&#10;&#10;Stream&lt;$type$&gt; get observe$observeName$ =&gt; _$name$.stream;&#10;$type$ get $name$Value =&gt; _$name$.value;&#10;$END$" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="type" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="initialValue" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="observeName" expression="capitalize(name)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
 </templateSet>
