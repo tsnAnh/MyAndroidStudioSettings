@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Project 'ultorex-app'" />
-    <option name="defaultScopeName" value="Project 'ultorex-app'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'ultorex-app'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
