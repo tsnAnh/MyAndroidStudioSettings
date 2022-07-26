@@ -5,7 +5,6 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gpx" type="XML" />
       <mapping ext="xcscheme" type="XML" />
-      <mapping ext="gv" type="dot file" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="pro" approved="true" type="DeviceSpecFile" />
@@ -13,6 +12,7 @@
       <removed_mapping pattern=".analysis_options" approved="true" type="YAML" />
       <removed_mapping pattern="pubspec.lock" approved="true" type="YAML" />
       <removed_mapping pattern="storage_service.dart" approved="true" type="AUTO_DETECTED" />
+      <mapping ext="gv" type="dot file" />
     </extensionMap>
   </component>
 </application>
