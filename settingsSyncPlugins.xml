@@ -47,6 +47,17 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.nasller.CodeGlancePro">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.vecheslav.darculaDarkerTheme">
           <value>
             <PluginData>
@@ -80,6 +91,11 @@
                 </set>
               </option>
             </PluginData>
+          </value>
+        </entry>
+        <entry key="idea.plugin.protoeditor">
+          <value>
+            <PluginData />
           </value>
         </entry>
         <entry key="indent-rainbow.indent-rainbow">
@@ -122,6 +138,18 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="mobi.hsz.idea.gitignore">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                  <option value="com.intellij.modules.vcs" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="org.jetbrains.IdeaVim-EasyMotion">
           <value>
             <PluginData>
@@ -133,6 +161,20 @@
                 </set>
               </option>
               <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="org.jetbrains.compose.desktop.ide">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.gradle" />
+                  <option value="com.intellij.modules.java" />
+                  <option value="com.intellij.modules.platform" />
+                  <option value="org.jetbrains.kotlin" />
+                </set>
+              </option>
             </PluginData>
           </value>
         </entry>
