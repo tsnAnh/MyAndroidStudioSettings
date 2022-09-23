@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine Timb" />
         <option value="package:mine listensNavigationDestinationChange" />
         <option value="package:mine" />
         <option value="package:mine offset" />
