@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine HEHEHE" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine HEHEHE" />
         <option value="package:mine " />
+        <option value="package:mine level:error " />
         <option value="package:mine" />
         <option value="package:mine Timb" />
         <option value="package:mine listensNavigationDestinationChange" />
