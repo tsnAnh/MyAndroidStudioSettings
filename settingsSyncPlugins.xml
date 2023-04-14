@@ -22,6 +22,7 @@
                   <option value="com.intellij.modules.xml" />
                 </set>
               </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -47,12 +48,51 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.bloc.intellij_generator_plugin">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.java" />
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.jetbrains.kmm">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.cidr.base" />
+                  <option value="com.intellij.modules.androidstudio" />
+                  <option value="org.jetbrains.android" />
+                  <option value="org.jetbrains.kotlin" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.nasller.CodeGlancePro">
           <value>
             <PluginData>
               <option name="dependencies">
                 <set>
                   <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.squareup.sqldelight">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.java" />
+                  <option value="com.intellij.modules.lang" />
+                  <option value="org.jetbrains.kotlin" />
                 </set>
               </option>
             </PluginData>
@@ -124,6 +164,7 @@
                   <option value="org.jetbrains.plugins.yaml" />
                 </set>
               </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>

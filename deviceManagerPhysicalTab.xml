@@ -5,7 +5,7 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="R58M93RWN6N" />
+            <value value="(no serial number)" />
           </Key>
         </key>
         <name value="Device" />
@@ -18,52 +18,18 @@
             <value value="8AVX100F2" />
           </Key>
         </key>
-        <name value="Google Pixel 3" />
-        <target value="Android Tiramisu" />
-        <api value="androidversion:33:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="221c9220621" />
-          </Key>
-        </key>
-        <name value="Xiaomi M2010J19CG" />
-        <target value="Android 10.0" />
-        <api value="androidversion:29:null:null:true" />
+        <name value="Device" />
+        <target value="Android 1.0" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
           <Key>
             <type value="DOMAIN_NAME" />
-            <value value="adb-8AVX100F2-U7ZNPr._adb-tls-connect._tcp." />
+            <value value="adb-8AVX100F2-OHntgT._adb-tls-connect._tcp." />
           </Key>
         </key>
         <name value="Google Pixel 3" />
-        <target value="Android 12.0" />
-        <api value="androidversion:31:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="R58RB0NWTXF" />
-          </Key>
-        </key>
-        <name value="samsung SM-A525F" />
-        <target value="Android 12.0" />
-        <api value="androidversion:31:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="DOMAIN_NAME" />
-            <value value="adb-8AVX100F2-3Dvp5j._adb-tls-connect._tcp." />
-          </Key>
-        </key>
-        <name value="Google Pixel 3" />
-        <target value="Android Tiramisu" />
+        <target value="Android 13.0" />
         <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
