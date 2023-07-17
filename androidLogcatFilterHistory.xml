@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine HEHEHE" />
+    <option name="mostRecentlyUsed" value="package:sw3.dapp.poc" />
     <option name="nonFavorites">
       <list>
+        <option value="package:sw3.dapp.poc" />
+        <option value="package:sw3.dapp.poc in" />
         <option value="package:mine HEHEHE" />
         <option value="package:mine " />
         <option value="package:mine level:error " />
