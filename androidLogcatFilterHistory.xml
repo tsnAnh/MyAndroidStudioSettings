@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:sw3.dapp.poc " />
+    <option name="mostRecentlyUsed" value="package:sw3.dapp.poc StandaloneCoroutine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:sw3.dapp.poc StandaloneCoroutine" />
         <option value="package:sw3.dapp.poc " />
         <option value="package:sw3.dapp.poc Auth" />
         <option value="package:sw3.dapp.poc DAppAuth" />
