@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:sw3.dapp.poc " />
+        <option value="package:sw3.dapp.poc AllPhotosViewModel" />
         <option value="package:sw3.dapp.poc test" />
         <option value="package:sw3.dapp.poc Test" />
         <option value="package:sw3.dapp.poc StandaloneCoroutine" />
